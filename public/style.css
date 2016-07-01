@@ -1,0 +1,23 @@
+*{
+  margin: 0 auto;
+  text-decoration: none;
+  list-style: none;
+}
+
+
+#container{
+  background-color: #3abdf6;
+  height: 900px;
+}
+
+#box{
+    width: 700px;
+    height: 500px;
+    background-color: #ffffff;
+    border-radius: 12px;
+}
+
+.img-card li{
+  float: left;
+  display: none;
+}
