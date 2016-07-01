@@ -17,7 +17,20 @@
     border-radius: 12px;
 }
 
+#box-left{
+  width:50%;
+
+}
+
+#box-right{
+  width:50%;
+}
+
+.img-card {
+  width:1000px;
+}
+
 .img-card li{
   float: left;
-  display: none;
+  display:none;
 }
